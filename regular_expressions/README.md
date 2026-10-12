@@ -7,3 +7,4 @@ Ruby scripts using Oniguruma regular expressions.
 - `2-repetition_token_1.rb`: matches `hbt?n`
 - `3-repetition_token_2.rb`: matches `hbt+n`
 - `4-repetition_token_3.rb`: matches `hbt*n`
+- `5-beginning_and_end.rb`: matches `^h.n$`
