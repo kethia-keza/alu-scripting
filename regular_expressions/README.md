@@ -10,3 +10,4 @@ Ruby scripts using Oniguruma regular expressions.
 - `5-beginning_and_end.rb`: matches `^h.n$`
 - `6-phone_number.rb`: matches a 10 digit phone number
 - `6-phone_number.rb`: matches a 10 digit phone number
+- `7-OMG_WHY_ARE_YOU_SHOUTING.rb`: matches capital letters
