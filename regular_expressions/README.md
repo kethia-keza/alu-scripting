@@ -11,3 +11,4 @@ Ruby scripts using Oniguruma regular expressions.
 - `6-phone_number.rb`: matches a 10 digit phone number
 - `6-phone_number.rb`: matches a 10 digit phone number
 - `7-OMG_WHY_ARE_YOU_SHOUTING.rb`: matches capital letters
+- `8-textme.rb`: extracts sender, receiver and flags from TextMe logs
